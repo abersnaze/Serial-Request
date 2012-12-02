@@ -1,0 +1,2 @@
+Serial Request is a library on top of RXTX for making Java like interfaces to hardware on the other end of a serial port.
+I've used this to help with making my home automation servers connect to irragation controller (Rain8) and my TV (Sharp Aquos).
